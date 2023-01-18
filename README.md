@@ -20,6 +20,14 @@ A collection of dashboards and interactive reports generated across various indu
 At the end of this course, you’ll understand how to use and apply data to make better decisions at every stage of the product lifecycle.
 
 
+## 🖥️ Data Engineering
+[Data Engineering Project Template](https://www.startdataengineering.com/post/data-engineering-projects-with-free-template/)
 
 
+## 🧮 Data Analysis
+[Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)<br/>
+Take Udacity's Introduction to Data Analytics and explore a variety of datasets, posing and answering your own questions and using the Python libraries NumPy, Pandas, and Matplotlib.
+
+[Data Analysis Expressions](https://learn.microsoft.com/en-us/dax/)<br/>
+Data Analysis Expressions (DAX) is a library of functions and operators that can be combined to build formulas and expressions in Power BI, Analysis Services, and Power Pivot in Excel data models.
 
