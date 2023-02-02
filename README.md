@@ -12,6 +12,8 @@ This A/B Testing course provides students with the foundational knowledge to des
 [Dataviz Inspiration](https://www.dataviz-inspiration.com/)<br/>
 Dataviz-inspiration.com aims at being the biggest list of chart examples available on the web. It showcases 104 of the most beautiful and impactful dataviz projects I know.
 
+[Data To Viz](https://www.data-to-viz.com/)<br/>
+
 [Gallery of Dashboards](https://alexkolokolov.com/en/gallery)<br/>
 A collection of dashboards and interactive reports generated across various industries by the Institute of Business Intelligence.
 
@@ -31,3 +33,18 @@ Take Udacity's Introduction to Data Analytics and explore a variety of datasets,
 [Data Analysis Expressions](https://learn.microsoft.com/en-us/dax/)<br/>
 Data Analysis Expressions (DAX) is a library of functions and operators that can be combined to build formulas and expressions in Power BI, Analysis Services, and Power Pivot in Excel data models.
 
+## 🧿 SQL
+[SQL Practice](http://www.sql-practice.com)<br/>
+
+[SQL Teaching](https://www.sqlteaching.com/)<br/>
+
+
+
+## 🤖 Machine Learning
+[Made With ML](https://madewithml.com/courses/foundations/)<br/>
+
+[Machine Hack](https://machinehack.com/home) <br/>
+
+
+## 🔬 Data Science
+[DS for beginners](https://github.com/microsoft/Data-Science-For-Beginners)<br/>
