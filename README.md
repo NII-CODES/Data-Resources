@@ -15,7 +15,10 @@ Dataviz-inspiration.com aims at being the biggest list of chart examples availab
 [Data To Viz](https://www.data-to-viz.com/)<br/>
 
 [Gallery of Dashboards](https://alexkolokolov.com/en/gallery)<br/>
-A collection of dashboards and interactive reports generated across various industries by the Institute of Business Intelligence.
+A collection of dashboards and interactive reports generated across various industries by the Institute of Business Intelligence.<br/>
+[Data Stories Gallery](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)<br/>
+
+[Vizwiz](vizwiz.com)<br/>
 
 ## 📋Product Analytics
 [Product Analytics Micro-Certification](https://productschool.teachable.com/p/productanalytics)<br/>
